@@ -4,11 +4,14 @@ This project implements an IoT-based garden irrigation system that remotely cont
 Features
 ● A Moisture Sensor is installed, if the motor is set in automatic mode based on moisture
 in the soil the motor is turned on and off.
+
 ● The level of moisture can be monitored through the dashboard created in Arduino cloud.
 It is displayed in various formats like value. gauge, chart etc. which makes it user
 friendly and readable.
+
 ● A temperature and humidity sensor is also installed which detects the temperature and
 returns value to the dashboard
+
 ● The motor can also be set to manual mode and be controlled manually by using the
 switch that can again be accessed using Arduino Cloud
 
