@@ -2,6 +2,7 @@
 This project implements an IoT-based garden irrigation system that remotely controls water pump operation and monitors soil moisture, temperature, and humidity through the Arduino Cloud platform.
 
 Features
+
 ● A Moisture Sensor is installed, if the motor is set in automatic mode based on moisture
 in the soil the motor is turned on and off.
 
